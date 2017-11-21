@@ -1,0 +1,5 @@
+/Users/Jarmo/Projects/Tunnikontroll_vol2/Tunnikontroll_vol2/obj/x86/Debug/Tunnikontroll_vol2.csproj.CoreCompileInputs.cache
+/Users/Jarmo/Projects/Tunnikontroll_vol2/Tunnikontroll_vol2/bin/Debug/Tunnikontroll_vol2.exe
+/Users/Jarmo/Projects/Tunnikontroll_vol2/Tunnikontroll_vol2/bin/Debug/Tunnikontroll_vol2.pdb
+/Users/Jarmo/Projects/Tunnikontroll_vol2/Tunnikontroll_vol2/obj/x86/Debug/Tunnikontroll_vol2.exe
+/Users/Jarmo/Projects/Tunnikontroll_vol2/Tunnikontroll_vol2/obj/x86/Debug/Tunnikontroll_vol2.pdb
